@@ -1,0 +1,228 @@
+TClock
+v7
+r0
+t356518551.767603
+cCheck dependencies
+cProcessInfoPlistFile /Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/Info.plist Clock-Info.plist
+cCopyStringsFile /Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/sen/Documents/MacOSProjects/Clock/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/9j/9jVn+BINEiOoGzb7Aldq8E+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Clock_Prefix-aogmnzuwfurtcaewfckxxznvhzos/Clock_Prefix.pch.gch Clock_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Clock.build/Debug/Clock.build/Objects-normal/x86_64/main.o /Users/sen/Documents/MacOSProjects/Clock/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Clock.build/Debug/Clock.build/Objects-normal/x86_64/ClockAppDelegate.o /Users/sen/Documents/MacOSProjects/Clock/ClockAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Clock.build/Debug/Clock.build/Objects-normal/x86_64/ClockViewController.o /Users/sen/Documents/MacOSProjects/Clock/ClockViewController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/MacOS/Clock normal x86_64
+cTouch /Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004F44B1AB00000000000000EE
+t1329901995
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004D53E65D000000000000A5E0
+t1297344093
+s42464
+
+N/Users/sen/Documents/MacOSProjects/Clock/ClockAppDelegate.h
+c000000004F8F440C000000000000012D
+t1334789132
+s301
+i<Cocoa/Cocoa.h>
+
+N/Users/sen/Documents/MacOSProjects/Clock/ClockAppDelegate.m
+c000000004F8F440C0000000000000160
+t1334789132
+s352
+i"ClockAppDelegate.h"
+
+N/Users/sen/Documents/MacOSProjects/Clock/ClockViewController.h
+c000000004F8FCF3300000000000000F1
+t1334824755
+s241
+i<Cocoa/Cocoa.h>
+
+N/Users/sen/Documents/MacOSProjects/Clock/ClockViewController.m
+c000000004F8FD2AF00000000000001E7
+t1334825647
+s487
+i"ClockViewController.h"
+
+N/Users/sen/Documents/MacOSProjects/Clock/Clock_Prefix.pch
+c000000004F8F440C000000000000008D
+t1334789132
+s141
+i<Cocoa/Cocoa.h>
+
+N/Users/sen/Documents/MacOSProjects/Clock/English.lproj/InfoPlist.strings
+c000000004F8F440C000000000000002D
+t1334789132
+s45
+
+N/Users/sen/Documents/MacOSProjects/Clock/English.lproj/MainMenu.xib
+c000000004F8FD309000000000002CEC2
+t1334825737
+s184002
+
+N/Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Objects-normal/x86_64/Clock.LinkFileList
+c000000004F8FD3110000000000000159
+t1334825745
+s345
+
+N/Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Objects-normal/x86_64/ClockAppDelegate.o
+t1334825751
+s21064
+
+N/Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Objects-normal/x86_64/ClockViewController.o
+t1334825751
+s14628
+
+N/Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Objects-normal/x86_64/main.o
+t1334825751
+s5000
+
+N/Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app
+t1334825751
+s102
+
+N/Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/Info.plist
+t1334825745
+s1278
+
+N/Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/MacOS/Clock
+t1334825751
+s15672
+
+N/Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/PkgInfo
+t1334825745
+s8
+
+N/Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1334825746
+s92
+
+N/Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/Resources/English.lproj/MainMenu.nib
+t1334825745
+s34634
+
+N/Users/sen/Documents/MacOSProjects/Clock/main.m
+c000000004F8F440C00000000000000F3
+t1334789132
+s243
+i<Cocoa/Cocoa.h>
+
+N/var/folders/9j/9jVn+BINEiOoGzb7Aldq8E+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Clock_Prefix-aogmnzuwfurtcaewfckxxznvhzos/Clock_Prefix.pch.gch
+t1334825750
+s54306576
+
+NClock-Info.plist
+c000000004F8F440C00000000000003EA
+t1334789132
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies356518545#356518545#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/Clock.build/Debug/Clock.build/Objects-normal/x86_64/ClockAppDelegate.o /Users/sen/Documents/MacOSProjects/Clock/ClockAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s356518550.878959
+e356518551.040812
+r1
+xCompileC
+xbuild/Clock.build/Debug/Clock.build/Objects-normal/x86_64/ClockAppDelegate.o
+x/Users/sen/Documents/MacOSProjects/Clock/ClockAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/sen/Documents/MacOSProjects/Clock/ClockAppDelegate.m356518550#356518551#0(0"0(0#0#59"/Users/sen/Documents/MacOSProjects/Clock/ClockAppDelegate.m8601001920#1456"    cd /Users/sen/Documents/MacOSProjects/Clock    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Clock-generated-files.hmap -I/Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Clock-own-target-headers.hmap -I/Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Clock-all-target-headers.hmap -iquote /Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Clock-project-headers.hmap -F/Users/sen/Documents/MacOSProjects/Clock/build/Debug -I/Users/sen/Documents/MacOSProjects/Clock/build/Debug/include -I/Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/DerivedSources/x86_64 -I/Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/DerivedSources -include /var/folders/9j/9jVn+BINEiOoGzb7Aldq8E+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Clock_Prefix-aogmnzuwfurtcaewfckxxznvhzos/Clock_Prefix.pch -c /Users/sen/Documents/MacOSProjects/Clock/ClockAppDelegate.m -o /Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Objects-normal/x86_64/ClockAppDelegate.o0#
+
+CCompileC build/Clock.build/Debug/Clock.build/Objects-normal/x86_64/ClockViewController.o /Users/sen/Documents/MacOSProjects/Clock/ClockViewController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s356518550.879758
+e356518551.040977
+r1
+xCompileC
+xbuild/Clock.build/Debug/Clock.build/Objects-normal/x86_64/ClockViewController.o
+x/Users/sen/Documents/MacOSProjects/Clock/ClockViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sen/Documents/MacOSProjects/Clock/ClockViewController.m:30: warning: incomplete implementation of class 'ClockViewController'
+o/Users/sen/Documents/MacOSProjects/Clock/ClockViewController.m:30: warning: method definition for '-currentHour' not found
+lSLF07#2@70"Compile /Users/sen/Documents/MacOSProjects/Clock/ClockViewController.m356518550#356518551#0(256"/Users/sen/Documents/MacOSProjects/Clock/ClockViewController.m:30: warning: incomplete implementation of class 'ClockViewController'/Users/sen/Documents/MacOSProjects/Clock/ClockViewController.m:30: warning: method definition for '-currentHour' not found2(22@56"Incomplete implementation of class 'ClockViewController'356518550#0#133#0(6@62"/Users/sen/Documents/MacOSProjects/Clock/ClockViewController.m356518447#30#0#30#0#38"incomplete implementation of class '*'0(22@46"Method definition for '-currentHour' not found356518550#133#123#0(6@62"/Users/sen/Documents/MacOSProjects/Clock/ClockViewController.m356518447#30#0#30#0#35"method definition for '*' not found0(0#0#62"/Users/sen/Documents/MacOSProjects/Clock/ClockViewController.m8600864832#1462"    cd /Users/sen/Documents/MacOSProjects/Clock    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Clock-generated-files.hmap -I/Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Clock-own-target-headers.hmap -I/Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Clock-all-target-headers.hmap -iquote /Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Clock-project-headers.hmap -F/Users/sen/Documents/MacOSProjects/Clock/build/Debug -I/Users/sen/Documents/MacOSProjects/Clock/build/Debug/include -I/Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/DerivedSources/x86_64 -I/Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/DerivedSources -include /var/folders/9j/9jVn+BINEiOoGzb7Aldq8E+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Clock_Prefix-aogmnzuwfurtcaewfckxxznvhzos/Clock_Prefix.pch -c /Users/sen/Documents/MacOSProjects/Clock/ClockViewController.m -o /Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Objects-normal/x86_64/ClockViewController.o0#
+
+CCompileC build/Clock.build/Debug/Clock.build/Objects-normal/x86_64/main.o /Users/sen/Documents/MacOSProjects/Clock/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s356518550.863652
+e356518551.040621
+r1
+xCompileC
+xbuild/Clock.build/Debug/Clock.build/Objects-normal/x86_64/main.o
+x/Users/sen/Documents/MacOSProjects/Clock/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/sen/Documents/MacOSProjects/Clock/main.m356518550#356518551#0(0"0(0#0#47"/Users/sen/Documents/MacOSProjects/Clock/main.m8601181344#1432"    cd /Users/sen/Documents/MacOSProjects/Clock    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Clock-generated-files.hmap -I/Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Clock-own-target-headers.hmap -I/Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Clock-all-target-headers.hmap -iquote /Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Clock-project-headers.hmap -F/Users/sen/Documents/MacOSProjects/Clock/build/Debug -I/Users/sen/Documents/MacOSProjects/Clock/build/Debug/include -I/Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/DerivedSources/x86_64 -I/Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/DerivedSources -include /var/folders/9j/9jVn+BINEiOoGzb7Aldq8E+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Clock_Prefix-aogmnzuwfurtcaewfckxxznvhzos/Clock_Prefix.pch -c /Users/sen/Documents/MacOSProjects/Clock/main.m -o /Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/sen/Documents/MacOSProjects/Clock/English.lproj/MainMenu.xib
+s356518545.723640
+e356518545.918949
+r1
+xCompileXIB
+x/Users/sen/Documents/MacOSProjects/Clock/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib356518545#356518545#0(0"0(0#0#67"/Users/sen/Documents/MacOSProjects/Clock/English.lproj/MainMenu.xib8644001568#368"    cd /Users/sen/Documents/MacOSProjects/Clock    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/Resources/English.lproj/MainMenu.nib /Users/sen/Documents/MacOSProjects/Clock/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s356518545.721250
+e356518546.023431
+r1
+xCopyStringsFile
+x/Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings356518545#356518546#0(0"0(0#0#72"/Users/sen/Documents/MacOSProjects/Clock/English.lproj/InfoPlist.strings8619039456#367"    cd /Users/sen/Documents/MacOSProjects/Clock    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/Resources/English.lproj0#
+
+CLd /Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/MacOS/Clock normal x86_64
+s356518551.041050
+e356518551.729072
+r1
+xLd
+x/Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/MacOS/Clock
+xnormal
+xx86_64
+lSLF07#2@88"Link /Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/MacOS/Clock356518551#356518551#0(0"0(0#0#0"8624845600#542"    cd /Users/sen/Documents/MacOSProjects/Clock    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/sen/Documents/MacOSProjects/Clock/build/Debug -F/Users/sen/Documents/MacOSProjects/Clock/build/Debug -filelist /Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Objects-normal/x86_64/Clock.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/MacOS/Clock0#
+
+CProcessInfoPlistFile /Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/Info.plist Clock-Info.plist
+s356518545.671618
+e356518545.720975
+r1
+xProcessInfoPlistFile
+x/Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/Info.plist
+xClock-Info.plist
+lSLF07#2@24"Process Clock-Info.plist356518545#356518545#0(0"0(0#0#57"/Users/sen/Documents/MacOSProjects/Clock/Clock-Info.plist13229804949078112#310"    cd /Users/sen/Documents/MacOSProjects/Clock    builtin-infoPlistUtility Clock-Info.plist -genpkginfo /Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/9j/9jVn+BINEiOoGzb7Aldq8E+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Clock_Prefix-aogmnzuwfurtcaewfckxxznvhzos/Clock_Prefix.pch.gch Clock_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s356518546.024043
+e356518550.863367
+r1
+xProcessPCH
+x/var/folders/9j/9jVn+BINEiOoGzb7Aldq8E+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Clock_Prefix-aogmnzuwfurtcaewfckxxznvhzos/Clock_Prefix.pch.gch
+xClock_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Clock_Prefix.pch356518546#356518550#0(0"0(0#0#57"/Users/sen/Documents/MacOSProjects/Clock/Clock_Prefix.pch8642053152#1338"    cd /Users/sen/Documents/MacOSProjects/Clock    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Clock-generated-files.hmap -I/Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Clock-own-target-headers.hmap -I/Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Clock-all-target-headers.hmap -iquote /Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Clock-project-headers.hmap -F/Users/sen/Documents/MacOSProjects/Clock/build/Debug -I/Users/sen/Documents/MacOSProjects/Clock/build/Debug/include -I/Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/DerivedSources/x86_64 -I/Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/DerivedSources -c /Users/sen/Documents/MacOSProjects/Clock/Clock_Prefix.pch -o /var/folders/9j/9jVn+BINEiOoGzb7Aldq8E+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Clock_Prefix-aogmnzuwfurtcaewfckxxznvhzos/Clock_Prefix.pch.gch0#
+
+CTouch /Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app
+s356518551.729151
+e356518551.767564
+r1
+xTouch
+x/Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app
+lSLF07#2@68"Touch /Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app356518551#356518551#0(0"0(0#0#0"8643783200#133"    cd /Users/sen/Documents/MacOSProjects/Clock    /usr/bin/touch -c /Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app0#
+

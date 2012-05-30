@@ -1,0 +1,10 @@
+76ef385ef82ab2cc865482ce41b772e2 ca8391751bf068bdb4c7116f3a23caf4 ffffffffffffffffffffffffffffffff 102 /Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app
+ef341a4355a739788f65e188824b84f3 cf6a2255963d5df5381125a0fc844687 ffffffffffffffffffffffffffffffff 15672 /Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/MacOS/Clock
+000000004f8fd309000000000002cec2 eb30b2de689573a750450ad92f4d84f1 ffffffffffffffffffffffffffffffff 34634 /Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/Resources/English.lproj/MainMenu.nib
+000000004f8f440c000000000000002d bd81b296532532e361654c3f1037fa88 ffffffffffffffffffffffffffffffff 92 /Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 7604ca5087a06b4df701ff2049e14a0e ffffffffffffffffffffffffffffffff 8 /Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/PkgInfo
+00000000000000000000000000000000 7604ca5087a06b4df701ff2049e14a0e ffffffffffffffffffffffffffffffff 1278 /Users/sen/Documents/MacOSProjects/Clock/build/Debug/Clock.app/Contents/Info.plist
+640aaa6ae335b6aac4ba57645da9df00 881ee50b96a035af8600264a19b8f782 ffffffffffffffffffffffffffffffff 14628 /Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Objects-normal/x86_64/ClockViewController.o
+640aaa6ae335ab36c4ba57645da9de5b efe75cb4919447ab8c50a87c4d972c50 ffffffffffffffffffffffffffffffff 21064 /Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Objects-normal/x86_64/ClockAppDelegate.o
+640aaa6aacbaef3ac4ba57645da9dee5 ecc70996fc3eee2c418f38da8bcd2591 ffffffffffffffffffffffffffffffff 5000 /Users/sen/Documents/MacOSProjects/Clock/build/Clock.build/Debug/Clock.build/Objects-normal/x86_64/main.o
+000000000f4bee640000000000000168 640aaa6aacbaef3ac4ba57645da9de9b ffffffffffffffffffffffffffffffff 54306576 /var/folders/9j/9jVn+BINEiOoGzb7Aldq8E+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Clock_Prefix-aogmnzuwfurtcaewfckxxznvhzos/Clock_Prefix.pch.gch
